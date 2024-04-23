@@ -2,7 +2,7 @@
 
 
 :root {
-	--fundo: #f50808;		
+	--fundo:#FF0000;
 	--roxo: #800080;
 	--Darkblue: #0b0b64;
 	--botao-on: #3A375E;
@@ -11,7 +11,7 @@
 	}
 
 body {
-	background-color: var(--fundo);  /*configurando o body */
+	background-color: var(--red);  /*configurando o body */
 	color: var(--Darkblue);
 	font-family: "Chakra Petch", sans-serif;
 
