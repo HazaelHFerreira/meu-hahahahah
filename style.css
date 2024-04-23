@@ -11,8 +11,8 @@
 	}
 
 body {
-	background-color: var(--red);  /*configurando o body */
-	color: var(--darkpurple);
+	background-color: var(--fundo);  /*configurando o body */
+	color: var(--Darkpurple);
 	font-family: "Chakra Petch", sans-serif;
 
 	}	
