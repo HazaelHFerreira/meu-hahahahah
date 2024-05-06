@@ -3,7 +3,7 @@
 
 :root {
 	--fundo:#fe0000;
-	--roxo: #ffffff;
+	--white: #ffffff;
 	--Darkpurple: #9305ff69;
 	--botao-on: #3A375E;
 	--botao-off: rgba(58, 55, 94, 0.5);
@@ -34,7 +34,7 @@ body {
 }
 
 .titulo-principal span {
-	color: var(--roxo);  /* trocando cor do _ */
+	color: var(--white);  /* trocando cor do _ */
 }
 
 .botao {
@@ -89,8 +89,8 @@ body {
 }
 
 .contador{
-	font-size: 20px;
-	text-align: center;
+	diplay: flex;
+	justify-content: center;
 }
 
 @media screen and (min-width: 768px) /*estabelece um valor mínimo para a exibição */
