@@ -2,9 +2,9 @@
 
 
 :root {
-	--fundo:#FF0000;
-	--roxo: #800080;
-	--Darkpurple: #9305ff;
+	--fundo:#fe0000;
+	--roxo: #ffffff;
+	--Darkpurple: #9305ff69;
 	--botao-on: #3A375E;
 	--botao-off: rgba(58, 55, 94, 0.5);
 	--texto-fundo: rgba(58, 55, 94, 0.3);	/*definindo variáveis*/
